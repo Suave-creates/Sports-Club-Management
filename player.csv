@@ -1,11 +1,13 @@
-Player_id ,player_name ,stage ,year_of_joining
-A1234,Aditya ,Intermidiate,2018
-A1235,Ayan,Begginer,2019
-A1236,Arav,Begginer,2019
-A1237,Kushal ,Pro,2015
-A1238,Hinmanshu,Pro,2015
-A1239,Ritesh,Pro,2015
-A1240,Sarthak ,Intermidiate,2018
-A1241,Shubham ,Intermidiate,2017
-A1242,Zilion,Begginer,2019
-A1243,Zest,Begginer,2019
+player_id,player_name,stage,year_of_joining
+A1234,Aditya,Intermidiate,2018.0
+A1235,Ayan,Begginer,2019.0
+A1236,Arav,Begginer,2019.0
+A1237,Kushal,Pro,2015.0
+A1238,Hinmanshu,Pro,2015.0
+A1239,Ritesh,Pro,2015.0
+A1240,Sarthak,Intermidiate,2018.0
+A1241,Shubham,Intermidiate,2017.0
+A1242,Zilion,Begginer,2019.0
+A1243,Zest,Begginer,2019.0
+A1244,MadanMohan,Pro,1825.0
+A1269,Mia,PRO,2000
