@@ -1,10 +1,11 @@
-supplement_id ,supplement_name ,cost ,category
-1234,Dumbels,1500,Workout
-1235,Elastic Belt,700,Practise 
-1236,Knee pads,250,Guards
-1237,Rope,100,Workout & Practise
-1238,Skipping Rope,100,Workout
-1239,Sprinters,900,Practise 
-1240,Shoes,2500,Accessory
-1241,Volleyball,5000,Practise 
-1242,Weights,200,Workout
+supplement_id,supplement_name,cost,category
+1234.0,Dumbels,1500.0,Workout
+1235.0,Elastic Belt,700.0,Practise 
+1236.0,Knee pads,250.0,Guards
+1237.0,Rope,100.0,Workout & Practise
+1238.0,Skipping Rope,100.0,Workout
+1239.0,Sprinters,900.0,Practise 
+1240.0,Shoes,2500.0,Accessory
+1241.0,Volleyball,5000.0,Practise 
+1242.0,Weights,200.0,Workout
+1244.0,table,420.0,Workout
